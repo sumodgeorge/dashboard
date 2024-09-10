@@ -28,7 +28,7 @@
     "react-dom": "^16.13.1",
     "react-feather": "^2.0.9",
     "react-intersection-observer": "^8.31.0",
-    "react-router-dom": "5.2.0",
+    "react-router-dom": "6.0.0",
     "react-simple-maps": "^2.3.0",
     "react-spring": "^8.0.27",
     "react-suspense-worker": "0.0.1",
